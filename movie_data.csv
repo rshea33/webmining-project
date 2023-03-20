@@ -1,0 +1,501 @@
+,title,year,length,director
+0,The Shawshank Redemption,1994,2h 22m,Frank Darabont
+1,The Shawshank Redemption,1994,2h 22m,Frank Darabont
+2,The Godfather,1972,2h 55m,Francis Ford Coppola
+3,The Godfather,1972,2h 55m,Francis Ford Coppola
+4,The Dark Knight,2008,2h 32m,Christopher Nolan
+5,The Dark Knight,2008,2h 32m,Christopher Nolan
+6,The Godfather Part II,1974,3h 22m,Francis Ford Coppola
+7,The Godfather Part II,1974,3h 22m,Francis Ford Coppola
+8,12 Angry Men,1957,1h 36m,Sidney Lumet
+9,12 Angry Men,1957,1h 36m,Sidney Lumet
+10,Schindler's List,1993,3h 15m,Steven Spielberg
+11,Schindler's List,1993,3h 15m,Steven Spielberg
+12,The Lord of the Rings: The Return of the King,2003,3h 21m,Peter Jackson
+13,The Lord of the Rings: The Return of the King,2003,3h 21m,Peter Jackson
+14,Pulp Fiction,1994,2h 34m,Quentin Tarantino
+15,Pulp Fiction,1994,2h 34m,Quentin Tarantino
+16,The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,Peter Jackson
+17,The Lord of the Rings: The Fellowship of the Ring,2001,2h 58m,Peter Jackson
+18,"The Good, the Bad and the Ugly",1966,2h 58m,Sergio Leone
+19,"The Good, the Bad and the Ugly",1966,2h 58m,Sergio Leone
+20,Forrest Gump,1994,2h 22m,Robert Zemeckis
+21,Forrest Gump,1994,2h 22m,Robert Zemeckis
+22,Fight Club,1999,2h 19m,David Fincher
+23,Fight Club,1999,2h 19m,David Fincher
+24,The Lord of the Rings: The Two Towers,2002,2h 59m,Peter Jackson
+25,The Lord of the Rings: The Two Towers,2002,2h 59m,Peter Jackson
+26,Inception,2010,2h 28m,Christopher Nolan
+27,Inception,2010,2h 28m,Christopher Nolan
+28,Star Wars: Episode V - The Empire Strikes Back,1980,2h 4m,Irvin Kershner
+29,Star Wars: Episode V - The Empire Strikes Back,1980,2h 4m,Irvin Kershner
+30,The Matrix,1999,2h 16m,Lana Wachowski
+31,The Matrix,1999,2h 16m,Lana Wachowski
+32,Goodfellas,1990,2h 25m,Martin Scorsese
+33,Goodfellas,1990,2h 25m,Martin Scorsese
+34,One Flew Over the Cuckoo's Nest,1975,2h 13m,Milos Forman
+35,One Flew Over the Cuckoo's Nest,1975,2h 13m,Milos Forman
+36,Se7en,1995,2h 7m,David Fincher
+37,Se7en,1995,2h 7m,David Fincher
+38,Seven Samurai,1954,3h 27m,Akira Kurosawa
+39,Seven Samurai,1954,3h 27m,Akira Kurosawa
+40,It's a Wonderful Life,1946,2h 10m,Frank Capra
+41,It's a Wonderful Life,1946,2h 10m,Frank Capra
+42,The Silence of the Lambs,1991,1h 58m,Jonathan Demme
+43,The Silence of the Lambs,1991,1h 58m,Jonathan Demme
+44,Saving Private Ryan,1998,2h 49m,Steven Spielberg
+45,Saving Private Ryan,1998,2h 49m,Steven Spielberg
+46,City of God,2002,2h 10m,Fernando Meirelles
+47,City of God,2002,2h 10m,Fernando Meirelles
+48,Interstellar,2014,2h 49m,Christopher Nolan
+49,Interstellar,2014,2h 49m,Christopher Nolan
+50,Life Is Beautiful,1997,1h 56m,Roberto Benigni
+51,Life Is Beautiful,1997,1h 56m,Roberto Benigni
+52,The Green Mile,1999,3h 9m,Frank Darabont
+53,The Green Mile,1999,3h 9m,Frank Darabont
+54,Star Wars: Episode IV - A New Hope,1977,2h 1m,George Lucas
+55,Star Wars: Episode IV - A New Hope,1977,2h 1m,George Lucas
+56,Terminator 2: Judgment Day,1991,2h 17m,James Cameron
+57,Terminator 2: Judgment Day,1991,2h 17m,James Cameron
+58,Back to the Future,1985,1h 56m,Robert Zemeckis
+59,Back to the Future,1985,1h 56m,Robert Zemeckis
+60,Spirited Away,2001,2h 5m,Hayao Miyazaki
+61,Spirited Away,2001,2h 5m,Hayao Miyazaki
+62,The Pianist,2002,2h 30m,Roman Polanski
+63,The Pianist,2002,2h 30m,Roman Polanski
+64,Psycho,1960,1h 49m,Alfred Hitchcock
+65,Psycho,1960,1h 49m,Alfred Hitchcock
+66,Parasite,2019,2h 12m,Bong Joon Ho
+67,Parasite,2019,2h 12m,Bong Joon Ho
+68,Léon: The Professional,1994,1h 50m,Luc Besson
+69,Léon: The Professional,1994,1h 50m,Luc Besson
+70,The Lion King,1994,1h 28m,Roger Allers
+71,The Lion King,1994,1h 28m,Roger Allers
+72,Gladiator,2000,2h 35m,Ridley Scott
+73,Gladiator,2000,2h 35m,Ridley Scott
+74,American History X,1998,1h 59m,Tony Kaye
+75,American History X,1998,1h 59m,Tony Kaye
+76,The Departed,2006,2h 31m,Martin Scorsese
+77,The Departed,2006,2h 31m,Martin Scorsese
+78,The Prestige,2006,2h 10m,Christopher Nolan
+79,The Prestige,2006,2h 10m,Christopher Nolan
+80,The Usual Suspects,1995,1h 46m,Bryan Singer
+81,The Usual Suspects,1995,1h 46m,Bryan Singer
+82,Whiplash,2014,1h 46m,Damien Chazelle
+83,Whiplash,2014,1h 46m,Damien Chazelle
+84,Casablanca,1942,1h 42m,Michael Curtiz
+85,Casablanca,1942,1h 42m,Michael Curtiz
+86,Grave of the Fireflies,1988,1h 29m,Isao Takahata
+87,Grave of the Fireflies,1988,1h 29m,Isao Takahata
+88,Harakiri,1962,2h 13m,Masaki Kobayashi
+89,Harakiri,1962,2h 13m,Masaki Kobayashi
+90,The Intouchables,2011,1h 52m,Olivier Nakache
+91,The Intouchables,2011,1h 52m,Olivier Nakache
+92,Modern Times,1936,1h 27m,Charles Chaplin
+93,Modern Times,1936,1h 27m,Charles Chaplin
+94,Once Upon a Time in the West,1968,2h 45m,Sergio Leone
+95,Once Upon a Time in the West,1968,2h 45m,Sergio Leone
+96,Cinema Paradiso,1988,2h 35m,Giuseppe Tornatore
+97,Cinema Paradiso,1988,2h 35m,Giuseppe Tornatore
+98,Rear Window,1954,1h 52m,Alfred Hitchcock
+99,Rear Window,1954,1h 52m,Alfred Hitchcock
+100,Alien,1979,1h 57m,Ridley Scott
+101,Alien,1979,1h 57m,Ridley Scott
+102,City Lights,1931,1h 27m,Charles Chaplin
+103,City Lights,1931,1h 27m,Charles Chaplin
+104,Apocalypse Now,1979,2h 27m,Francis Ford Coppola
+105,Apocalypse Now,1979,2h 27m,Francis Ford Coppola
+106,Memento,2000,1h 53m,Christopher Nolan
+107,Memento,2000,1h 53m,Christopher Nolan
+108,Django Unchained,2012,2h 45m,Quentin Tarantino
+109,Django Unchained,2012,2h 45m,Quentin Tarantino
+110,Raiders of the Lost Ark,1981,1h 55m,Steven Spielberg
+111,Raiders of the Lost Ark,1981,1h 55m,Steven Spielberg
+112,WALL·E,2008,1h 38m,Andrew Stanton
+113,WALL·E,2008,1h 38m,Andrew Stanton
+114,The Lives of Others,2006,2h 17m,Florian Henckel von Donnersmarck
+115,The Lives of Others,2006,2h 17m,Florian Henckel von Donnersmarck
+116,Sunset Blvd.,1950,1h 50m,Billy Wilder
+117,Sunset Blvd.,1950,1h 50m,Billy Wilder
+118,Paths of Glory,1957,1h 28m,Stanley Kubrick
+119,Paths of Glory,1957,1h 28m,Stanley Kubrick
+120,The Shining,1980,2h 26m,Stanley Kubrick
+121,The Shining,1980,2h 26m,Stanley Kubrick
+122,The Great Dictator,1940,2h 5m,Charles Chaplin
+123,The Great Dictator,1940,2h 5m,Charles Chaplin
+124,Avengers: Infinity War,2018,2h 29m,Anthony Russo
+125,Avengers: Infinity War,2018,2h 29m,Anthony Russo
+126,Witness for the Prosecution,1957,1h 56m,Billy Wilder
+127,Witness for the Prosecution,1957,1h 56m,Billy Wilder
+128,Aliens,1986,2h 17m,James Cameron
+129,Aliens,1986,2h 17m,James Cameron
+130,Spider-Man: Into the Spider-Verse,2018,1h 57m,Bob Persichetti
+131,Spider-Man: Into the Spider-Verse,2018,1h 57m,Bob Persichetti
+132,American Beauty,1999,2h 2m,Sam Mendes
+133,American Beauty,1999,2h 2m,Sam Mendes
+134,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1h 35m,Stanley Kubrick
+135,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,1h 35m,Stanley Kubrick
+136,The Dark Knight Rises,2012,2h 44m,Christopher Nolan
+137,The Dark Knight Rises,2012,2h 44m,Christopher Nolan
+138,Oldboy,2003,2h,Park Chan-wook
+139,Oldboy,2003,2h,Park Chan-wook
+140,Inglourious Basterds,2009,2h 33m,Quentin Tarantino
+141,Inglourious Basterds,2009,2h 33m,Quentin Tarantino
+142,Amadeus,1984,2h 40m,Milos Forman
+143,Amadeus,1984,2h 40m,Milos Forman
+144,Coco,2017,1h 45m,Lee Unkrich
+145,Coco,2017,1h 45m,Lee Unkrich
+146,Toy Story,1995,1h 21m,John Lasseter
+147,Toy Story,1995,1h 21m,John Lasseter
+148,Joker,2019,2h 2m,Todd Phillips
+149,Joker,2019,2h 2m,Todd Phillips
+150,Braveheart,1995,2h 58m,Mel Gibson
+151,Braveheart,1995,2h 58m,Mel Gibson
+152,Das Boot,1981,Wolfgang Petersen,Wolfgang Petersen
+153,Das Boot,1981,Wolfgang Petersen,Wolfgang Petersen
+154,Avengers: Endgame,2019,3h 1m,Anthony Russo
+155,Avengers: Endgame,2019,3h 1m,Anthony Russo
+156,Princess Mononoke,1997,2h 14m,Hayao Miyazaki
+157,Princess Mononoke,1997,2h 14m,Hayao Miyazaki
+158,Once Upon a Time in America,1984,3h 49m,Sergio Leone
+159,Once Upon a Time in America,1984,3h 49m,Sergio Leone
+160,Good Will Hunting,1997,2h 6m,Gus Van Sant
+161,Good Will Hunting,1997,2h 6m,Gus Van Sant
+162,Your Name.,2016,1h 46m,Makoto Shinkai
+163,Your Name.,2016,1h 46m,Makoto Shinkai
+164,Singin' in the Rain,1952,1h 43m,Stanley Donen
+165,Singin' in the Rain,1952,1h 43m,Stanley Donen
+166,3 Idiots,2009,2h 50m,Rajkumar Hirani
+167,3 Idiots,2009,2h 50m,Rajkumar Hirani
+168,Requiem for a Dream,2000,1h 42m,Darren Aronofsky
+169,Requiem for a Dream,2000,1h 42m,Darren Aronofsky
+170,High and Low,1963,2h 23m,Akira Kurosawa
+171,High and Low,1963,2h 23m,Akira Kurosawa
+172,Toy Story 3,2010,1h 43m,Lee Unkrich
+173,Toy Story 3,2010,1h 43m,Lee Unkrich
+174,Capernaum,2018,2h 6m,Nadine Labaki
+175,Capernaum,2018,2h 6m,Nadine Labaki
+176,Star Wars: Episode VI - Return of the Jedi,1983,2h 11m,Richard Marquand
+177,Star Wars: Episode VI - Return of the Jedi,1983,2h 11m,Richard Marquand
+178,2001: A Space Odyssey,1968,2h 29m,Stanley Kubrick
+179,2001: A Space Odyssey,1968,2h 29m,Stanley Kubrick
+180,Eternal Sunshine of the Spotless Mind,2004,1h 48m,Michel Gondry
+181,Eternal Sunshine of the Spotless Mind,2004,1h 48m,Michel Gondry
+182,Come and See,1985,2h 22m,Elem Klimov
+183,Come and See,1985,2h 22m,Elem Klimov
+184,Reservoir Dogs,1992,1h 39m,Quentin Tarantino
+185,Reservoir Dogs,1992,1h 39m,Quentin Tarantino
+186,The Hunt,2012,1h 55m,Thomas Vinterberg
+187,The Hunt,2012,1h 55m,Thomas Vinterberg
+188,Citizen Kane,1941,1h 59m,Orson Welles
+189,Citizen Kane,1941,1h 59m,Orson Welles
+190,M,1931,1h 39m,Fritz Lang
+191,M,1931,1h 39m,Fritz Lang
+192,Lawrence of Arabia,1962,3h 38m,David Lean
+193,Lawrence of Arabia,1962,3h 38m,David Lean
+194,North by Northwest,1959,2h 16m,Alfred Hitchcock
+195,North by Northwest,1959,2h 16m,Alfred Hitchcock
+196,Ikiru,1952,2h 23m,Akira Kurosawa
+197,Ikiru,1952,2h 23m,Akira Kurosawa
+198,Vertigo,1958,2h 8m,Alfred Hitchcock
+199,Vertigo,1958,2h 8m,Alfred Hitchcock
+200,The Apartment,1960,2h 5m,Billy Wilder
+201,The Apartment,1960,2h 5m,Billy Wilder
+202,Amélie,2001,2h 2m,Jean-Pierre Jeunet
+203,Amélie,2001,2h 2m,Jean-Pierre Jeunet
+204,A Clockwork Orange,1971,2h 16m,Stanley Kubrick
+205,A Clockwork Orange,1971,2h 16m,Stanley Kubrick
+206,Double Indemnity,1944,1h 47m,Billy Wilder
+207,Double Indemnity,1944,1h 47m,Billy Wilder
+208,Full Metal Jacket,1987,1h 56m,Stanley Kubrick
+209,Full Metal Jacket,1987,1h 56m,Stanley Kubrick
+210,Scarface,1983,2h 50m,Brian De Palma
+211,Scarface,1983,2h 50m,Brian De Palma
+212,Hamilton,2020,2h 40m,Thomas Kail
+213,Hamilton,2020,2h 40m,Thomas Kail
+214,Incendies,2010,2h 11m,Denis Villeneuve
+215,Incendies,2010,2h 11m,Denis Villeneuve
+216,Heat,1995,2h 50m,Michael Mann
+217,Heat,1995,2h 50m,Michael Mann
+218,To Kill a Mockingbird,1962,2h 9m,Robert Mulligan
+219,To Kill a Mockingbird,1962,2h 9m,Robert Mulligan
+220,Up,2009,1h 36m,Pete Docter
+221,Up,2009,1h 36m,Pete Docter
+222,The Sting,1973,2h 9m,George Roy Hill
+223,The Sting,1973,2h 9m,George Roy Hill
+224,A Separation,2011,2h 3m,Asghar Farhadi
+225,A Separation,2011,2h 3m,Asghar Farhadi
+226,Metropolis,1927,2h 33m,Fritz Lang
+227,Metropolis,1927,2h 33m,Fritz Lang
+228,Taxi Driver,1976,1h 54m,Martin Scorsese
+229,Taxi Driver,1976,1h 54m,Martin Scorsese
+230,L.A. Confidential,1997,2h 18m,Curtis Hanson
+231,L.A. Confidential,1997,2h 18m,Curtis Hanson
+232,Top Gun: Maverick,2022,2h 10m,Joseph Kosinski
+233,Top Gun: Maverick,2022,2h 10m,Joseph Kosinski
+234,Die Hard,1988,2h 12m,John McTiernan
+235,Die Hard,1988,2h 12m,John McTiernan
+236,Snatch,2000,1h 42m,Guy Ritchie
+237,Snatch,2000,1h 42m,Guy Ritchie
+238,Indiana Jones and the Last Crusade,1989,2h 7m,Steven Spielberg
+239,Indiana Jones and the Last Crusade,1989,2h 7m,Steven Spielberg
+240,Bicycle Thieves,1948,1h 29m,Vittorio De Sica
+241,Bicycle Thieves,1948,1h 29m,Vittorio De Sica
+242,Like Stars on Earth,2007,2h 45m,Aamir Khan
+243,Like Stars on Earth,2007,2h 45m,Aamir Khan
+244,1917,2019,1h 59m,Sam Mendes
+245,1917,2019,1h 59m,Sam Mendes
+246,Downfall,2004,2h 36m,Oliver Hirschbiegel
+247,Downfall,2004,2h 36m,Oliver Hirschbiegel
+248,Dangal,2016,2h 41m,Nitesh Tiwari
+249,Dangal,2016,2h 41m,Nitesh Tiwari
+250,For a Few Dollars More,1965,2h 12m,Sergio Leone
+251,For a Few Dollars More,1965,2h 12m,Sergio Leone
+252,Batman Begins,2005,2h 20m,Christopher Nolan
+253,Batman Begins,2005,2h 20m,Christopher Nolan
+254,The Kid,1921,1h 8m,Charles Chaplin
+255,The Kid,1921,1h 8m,Charles Chaplin
+256,Some Like It Hot,1959,2h 1m,Billy Wilder
+257,Some Like It Hot,1959,2h 1m,Billy Wilder
+258,The Father,2020,1h 37m,Florian Zeller
+259,The Father,2020,1h 37m,Florian Zeller
+260,All About Eve,1950,2h 18m,Joseph L. Mankiewicz
+261,All About Eve,1950,2h 18m,Joseph L. Mankiewicz
+262,The Wolf of Wall Street,2013,3h,Martin Scorsese
+263,The Wolf of Wall Street,2013,3h,Martin Scorsese
+264,Green Book,2018,2h 10m,Peter Farrelly
+265,Green Book,2018,2h 10m,Peter Farrelly
+266,Judgment at Nuremberg,1961,2h 59m,Stanley Kramer
+267,Judgment at Nuremberg,1961,2h 59m,Stanley Kramer
+268,Ran,1985,2h 42m,Akira Kurosawa
+269,Ran,1985,2h 42m,Akira Kurosawa
+270,Casino,1995,2h 58m,Martin Scorsese
+271,Casino,1995,2h 58m,Martin Scorsese
+272,The Truman Show,1998,1h 43m,Peter Weir
+273,The Truman Show,1998,1h 43m,Peter Weir
+274,There Will Be Blood,2007,2h 38m,Paul Thomas Anderson
+275,There Will Be Blood,2007,2h 38m,Paul Thomas Anderson
+276,Pan's Labyrinth,2006,1h 58m,Guillermo del Toro
+277,Pan's Labyrinth,2006,1h 58m,Guillermo del Toro
+278,Unforgiven,1992,2h 10m,Clint Eastwood
+279,Unforgiven,1992,2h 10m,Clint Eastwood
+280,The Sixth Sense,1999,1h 47m,M. Night Shyamalan
+281,The Sixth Sense,1999,1h 47m,M. Night Shyamalan
+282,Shutter Island,2010,2h 18m,Martin Scorsese
+283,Shutter Island,2010,2h 18m,Martin Scorsese
+284,A Beautiful Mind,2001,2h 15m,Ron Howard
+285,A Beautiful Mind,2001,2h 15m,Ron Howard
+286,Jurassic Park,1993,2h 7m,Steven Spielberg
+287,Jurassic Park,1993,2h 7m,Steven Spielberg
+288,Yojimbo,1961,1h 50m,Akira Kurosawa
+289,Yojimbo,1961,1h 50m,Akira Kurosawa
+290,The Treasure of the Sierra Madre,1948,2h 6m,John Huston
+291,The Treasure of the Sierra Madre,1948,2h 6m,John Huston
+292,Monty Python and the Holy Grail,1975,1h 31m,Terry Gilliam
+293,Monty Python and the Holy Grail,1975,1h 31m,Terry Gilliam
+294,No Country for Old Men,2007,2h 2m,Ethan Coen
+295,No Country for Old Men,2007,2h 2m,Ethan Coen
+296,The Great Escape,1963,2h 52m,John Sturges
+297,The Great Escape,1963,2h 52m,John Sturges
+298,Kill Bill: Vol. 1,2003,1h 51m,Quentin Tarantino
+299,Kill Bill: Vol. 1,2003,1h 51m,Quentin Tarantino
+300,Rashomon,1950,1h 28m,Akira Kurosawa
+301,Rashomon,1950,1h 28m,Akira Kurosawa
+302,Spider-Man: No Way Home,2021,2h 28m,Jon Watts
+303,Spider-Man: No Way Home,2021,2h 28m,Jon Watts
+304,The Thing,1982,1h 49m,John Carpenter
+305,The Thing,1982,1h 49m,John Carpenter
+306,Finding Nemo,2003,1h 40m,Andrew Stanton
+307,Finding Nemo,2003,1h 40m,Andrew Stanton
+308,The Elephant Man,1980,2h 4m,David Lynch
+309,The Elephant Man,1980,2h 4m,David Lynch
+310,Chinatown,1974,2h 10m,Roman Polanski
+311,Chinatown,1974,2h 10m,Roman Polanski
+312,Raging Bull,1980,2h 9m,Martin Scorsese
+313,Raging Bull,1980,2h 9m,Martin Scorsese
+314,V for Vendetta,2005,2h 12m,James McTeigue
+315,V for Vendetta,2005,2h 12m,James McTeigue
+316,Gone with the Wind,1939,3h 58m,Victor Fleming
+317,Gone with the Wind,1939,3h 58m,Victor Fleming
+318,"Lock, Stock and Two Smoking Barrels",1998,1h 47m,Guy Ritchie
+319,"Lock, Stock and Two Smoking Barrels",1998,1h 47m,Guy Ritchie
+320,Inside Out,2015,1h 35m,Pete Docter
+321,Inside Out,2015,1h 35m,Pete Docter
+322,Dial M for Murder,1954,1h 45m,Alfred Hitchcock
+323,Dial M for Murder,1954,1h 45m,Alfred Hitchcock
+324,The Secret in Their Eyes,2009,2h 9m,Juan José Campanella
+325,The Secret in Their Eyes,2009,2h 9m,Juan José Campanella
+326,Howl's Moving Castle,2004,1h 59m,Hayao Miyazaki
+327,Howl's Moving Castle,2004,1h 59m,Hayao Miyazaki
+328,"Three Billboards Outside Ebbing, Missouri",2017,1h 55m,Martin McDonagh
+329,"Three Billboards Outside Ebbing, Missouri",2017,1h 55m,Martin McDonagh
+330,Trainspotting,1996,1h 33m,Danny Boyle
+331,Trainspotting,1996,1h 33m,Danny Boyle
+332,The Bridge on the River Kwai,1957,2h 41m,David Lean
+333,The Bridge on the River Kwai,1957,2h 41m,David Lean
+334,Prisoners,2013,2h 33m,Denis Villeneuve
+335,Prisoners,2013,2h 33m,Denis Villeneuve
+336,Warrior,2011,2h 20m,Gavin O'Connor
+337,Warrior,2011,2h 20m,Gavin O'Connor
+338,Fargo,1996,1h 38m,Joel Coen
+339,Fargo,1996,1h 38m,Joel Coen
+340,Gran Torino,2008,1h 56m,Clint Eastwood
+341,Gran Torino,2008,1h 56m,Clint Eastwood
+342,My Neighbor Totoro,1988,1h 26m,Hayao Miyazaki
+343,My Neighbor Totoro,1988,1h 26m,Hayao Miyazaki
+344,Catch Me If You Can,2002,2h 21m,Steven Spielberg
+345,Catch Me If You Can,2002,2h 21m,Steven Spielberg
+346,Million Dollar Baby,2004,2h 12m,Clint Eastwood
+347,Million Dollar Baby,2004,2h 12m,Clint Eastwood
+348,Children of Heaven,1997,1h 29m,Majid Majidi
+349,Children of Heaven,1997,1h 29m,Majid Majidi
+350,Blade Runner,1982,1h 57m,Ridley Scott
+351,Blade Runner,1982,1h 57m,Ridley Scott
+352,The Gold Rush,1925,1h 35m,Charles Chaplin
+353,The Gold Rush,1925,1h 35m,Charles Chaplin
+354,Klaus,2019,1h 36m,Sergio Pablos
+355,Klaus,2019,1h 36m,Sergio Pablos
+356,Before Sunrise,1995,1h 41m,Richard Linklater
+357,Before Sunrise,1995,1h 41m,Richard Linklater
+358,Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,David Yates
+359,Harry Potter and the Deathly Hallows: Part 2,2011,2h 10m,David Yates
+360,12 Years a Slave,2013,2h 14m,Steve McQueen
+361,12 Years a Slave,2013,2h 14m,Steve McQueen
+362,On the Waterfront,1954,1h 48m,Elia Kazan
+363,On the Waterfront,1954,1h 48m,Elia Kazan
+364,Ben-Hur,1959,3h 32m,William Wyler
+365,Ben-Hur,1959,3h 32m,William Wyler
+366,The Grand Budapest Hotel,2014,1h 39m,Wes Anderson
+367,The Grand Budapest Hotel,2014,1h 39m,Wes Anderson
+368,Gone Girl,2014,2h 29m,David Fincher
+369,Gone Girl,2014,2h 29m,David Fincher
+370,Wild Strawberries,1957,1h 31m,Ingmar Bergman
+371,Wild Strawberries,1957,1h 31m,Ingmar Bergman
+372,The General,1926,1h 7m,Clyde Bruckman
+373,The General,1926,1h 7m,Clyde Bruckman
+374,In the Name of the Father,1993,2h 13m,Jim Sheridan
+375,In the Name of the Father,1993,2h 13m,Jim Sheridan
+376,Barry Lyndon,1975,3h 5m,Stanley Kubrick
+377,Barry Lyndon,1975,3h 5m,Stanley Kubrick
+378,The Third Man,1949,1h 33m,Carol Reed
+379,The Third Man,1949,1h 33m,Carol Reed
+380,The Deer Hunter,1978,3h 3m,Michael Cimino
+381,The Deer Hunter,1978,3h 3m,Michael Cimino
+382,Hacksaw Ridge,2016,2h 19m,Mel Gibson
+383,Hacksaw Ridge,2016,2h 19m,Mel Gibson
+384,The Wages of Fear,1953,2h 11m,Henri-Georges Clouzot
+385,The Wages of Fear,1953,2h 11m,Henri-Georges Clouzot
+386,Memories of Murder,2003,2h 12m,Bong Joon Ho
+387,Memories of Murder,2003,2h 12m,Bong Joon Ho
+388,Sherlock Jr.,1924,45m,Buster Keaton
+389,Sherlock Jr.,1924,45m,Buster Keaton
+390,Wild Tales,2014,2h 2m,Damián Szifron
+391,Wild Tales,2014,2h 2m,Damián Szifron
+392,Mr. Smith Goes to Washington,1939,2h 9m,Frank Capra
+393,Mr. Smith Goes to Washington,1939,2h 9m,Frank Capra
+394,Mad Max: Fury Road,2015,2h,George Miller
+395,Mad Max: Fury Road,2015,2h,George Miller
+396,Mary and Max,2009,1h 32m,Adam Elliot
+397,Mary and Max,2009,1h 32m,Adam Elliot
+398,The Seventh Seal,1957,1h 36m,Ingmar Bergman
+399,The Seventh Seal,1957,1h 36m,Ingmar Bergman
+400,How to Train Your Dragon,2010,1h 38m,Dean DeBlois
+401,How to Train Your Dragon,2010,1h 38m,Dean DeBlois
+402,"Monsters, Inc.",2001,1h 32m,Pete Docter
+403,"Monsters, Inc.",2001,1h 32m,Pete Docter
+404,Room,2015,1h 58m,Lenny Abrahamson
+405,Room,2015,1h 58m,Lenny Abrahamson
+406,Jaws,1975,2h 4m,Steven Spielberg
+407,Jaws,1975,2h 4m,Steven Spielberg
+408,Dead Poets Society,1989,2h 8m,Peter Weir
+409,Dead Poets Society,1989,2h 8m,Peter Weir
+410,The Big Lebowski,1998,1h 57m,Joel Coen
+411,The Big Lebowski,1998,1h 57m,Joel Coen
+412,Tokyo Story,1953,2h 16m,Yasujirô Ozu
+413,Tokyo Story,1953,2h 16m,Yasujirô Ozu
+414,The Passion of Joan of Arc,1928,1h 54m,Carl Theodor Dreyer
+415,The Passion of Joan of Arc,1928,1h 54m,Carl Theodor Dreyer
+416,Ford v Ferrari,2019,2h 32m,James Mangold
+417,Ford v Ferrari,2019,2h 32m,James Mangold
+418,Hotel Rwanda,2004,2h 1m,Terry George
+419,Hotel Rwanda,2004,2h 1m,Terry George
+420,Rocky,1976,2h,John G. Avildsen
+421,Rocky,1976,2h,John G. Avildsen
+422,Platoon,1986,2h,Oliver Stone
+423,Platoon,1986,2h,Oliver Stone
+424,Ratatouille,2007,1h 51m,Brad Bird
+425,Ratatouille,2007,1h 51m,Brad Bird
+426,Spotlight,2015,2h 9m,Tom McCarthy
+427,Spotlight,2015,2h 9m,Tom McCarthy
+428,The Terminator,1984,1h 47m,James Cameron
+429,The Terminator,1984,1h 47m,James Cameron
+430,Logan,2017,2h 17m,James Mangold
+431,Logan,2017,2h 17m,James Mangold
+432,Stand by Me,1986,1h 29m,Rob Reiner
+433,Stand by Me,1986,1h 29m,Rob Reiner
+434,Rush,2013,2h 3m,Ron Howard
+435,Rush,2013,2h 3m,Ron Howard
+436,Network,1976,2h 1m,Sidney Lumet
+437,Network,1976,2h 1m,Sidney Lumet
+438,Before Sunset,2004,1h 20m,Richard Linklater
+439,Before Sunset,2004,1h 20m,Richard Linklater
+440,Into the Wild,2007,2h 28m,Sean Penn
+441,Into the Wild,2007,2h 28m,Sean Penn
+442,The Wizard of Oz,1939,1h 42m,Victor Fleming
+443,The Wizard of Oz,1939,1h 42m,Victor Fleming
+444,The Best Years of Our Lives,1946,2h 50m,William Wyler
+445,The Best Years of Our Lives,1946,2h 50m,William Wyler
+446,Groundhog Day,1993,1h 41m,Harold Ramis
+447,Groundhog Day,1993,1h 41m,Harold Ramis
+448,The Exorcist,1973,2h 2m,William Friedkin
+449,The Exorcist,1973,2h 2m,William Friedkin
+450,Pather Panchali,1955,2h 5m,Satyajit Ray
+451,Pather Panchali,1955,2h 5m,Satyajit Ray
+452,The Incredibles,2004,1h 55m,Brad Bird
+453,The Incredibles,2004,1h 55m,Brad Bird
+454,To Be or Not to Be,1942,1h 39m,Ernst Lubitsch
+455,To Be or Not to Be,1942,1h 39m,Ernst Lubitsch
+456,La haine,1995,1h 38m,Mathieu Kassovitz
+457,La haine,1995,1h 38m,Mathieu Kassovitz
+458,Pirates of the Caribbean: The Curse of the Black Pearl,2003,2h 23m,Gore Verbinski
+459,Pirates of the Caribbean: The Curse of the Black Pearl,2003,2h 23m,Gore Verbinski
+460,The Battle of Algiers,1966,2h 1m,Gillo Pontecorvo
+461,The Battle of Algiers,1966,2h 1m,Gillo Pontecorvo
+462,Hachi: A Dog's Tale,2009,1h 33m,Lasse Hallström
+463,Hachi: A Dog's Tale,2009,1h 33m,Lasse Hallström
+464,The Grapes of Wrath,1940,2h 9m,John Ford
+465,The Grapes of Wrath,1940,2h 9m,John Ford
+466,Jai Bhim,2021,2h 44m,T.J. Gnanavel
+467,Jai Bhim,2021,2h 44m,T.J. Gnanavel
+468,My Father and My Son,2005,1h 52m,Çagan Irmak
+469,My Father and My Son,2005,1h 52m,Çagan Irmak
+470,Amores Perros,2000,2h 34m,Alejandro G. Iñárritu
+471,Amores Perros,2000,2h 34m,Alejandro G. Iñárritu
+472,Rebecca,1940,2h 10m,Alfred Hitchcock
+473,Rebecca,1940,2h 10m,Alfred Hitchcock
+474,Cool Hand Luke,1967,2h 7m,Stuart Rosenberg
+475,Cool Hand Luke,1967,2h 7m,Stuart Rosenberg
+476,The Handmaiden,2016,2h 25m,Park Chan-wook
+477,The Handmaiden,2016,2h 25m,Park Chan-wook
+478,The 400 Blows,1959,1h 39m,François Truffaut
+479,The 400 Blows,1959,1h 39m,François Truffaut
+480,The Sound of Music,1965,2h 52m,Robert Wise
+481,The Sound of Music,1965,2h 52m,Robert Wise
+482,It Happened One Night,1934,1h 45m,Frank Capra
+483,It Happened One Night,1934,1h 45m,Frank Capra
+484,Persona,1966,1h 23m,Ingmar Bergman
+485,Persona,1966,1h 23m,Ingmar Bergman
+486,Life of Brian,1979,1h 34m,Terry Jones
+487,Life of Brian,1979,1h 34m,Terry Jones
+488,The Iron Giant,1999,1h 26m,Brad Bird
+489,The Iron Giant,1999,1h 26m,Brad Bird
+490,The Help,2011,2h 26m,Tate Taylor
+491,The Help,2011,2h 26m,Tate Taylor
+492,Dersu Uzala,1975,2h 22m,Akira Kurosawa
+493,Dersu Uzala,1975,2h 22m,Akira Kurosawa
+494,Aladdin,1992,1h 30m,Ron Clements
+495,Aladdin,1992,1h 30m,Ron Clements
+496,Dances with Wolves,1990,3h 1m,Kevin Costner
+497,Dances with Wolves,1990,3h 1m,Kevin Costner
+498,Gandhi,1982,3h 11m,Richard Attenborough
+499,Gandhi,1982,3h 11m,Richard Attenborough
