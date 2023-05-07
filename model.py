@@ -6,6 +6,7 @@ import string
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 import random
 from sklearn.neighbors import NearestNeighbors
+from sklearn.cluster import KMeans
 
 
 class MovieRecommender:
@@ -31,26 +32,56 @@ class MovieRecommender:
         return similar_movies
 
 
-    def test_similarity(self, data):
-        for i in range(5):
+    def test_similarity(self, data, n_movies=5):
+        for i in range(n_movies):
             movie = random.choice(data.index)
             print('Movie selected:', movie)
             print('Similar movies:')
             print(self.return_similar_movies(movie))
             print()
 
+
+class KmeansRecommender:
+
+    def __init__(
+            self,
+            data,
+            movies_per_cluster=5, # on average
+            ):
+        self.data = data
+        self.movies_per_cluster = movies_per_cluster
+        self.n_clusters = int(len(data) / movies_per_cluster)
+        self.model = KMeans(n_clusters=self.n_clusters)
+        self.model.fit(data)
+
+    def return_similar_movies(self, movie_name):
+        cluster = self.model.predict(self.data.loc[movie_name].values.reshape(1, -1))[0]
+        similar_movies = self.data[self.model.labels_ == cluster]
+        return similar_movies.index
+    
+    def test_similarity(self, data, n_movies=5):
+        for i in range(n_movies):
+            movie = random.choice(data.index)
+            print('Movie selected:', movie)
+            print('Similar movies:')
+            print(self.return_similar_movies(movie))
+            print()
+    
+
+
 def main():
 
     # Check command-line arguments
     if len(argv) not in [2, 3]:
-        print("Usage: python model.py <data.csv> [model]")
+        print("Usage: python model.py <data.csv> [model_type]")
         exit(1)
 
     if len(argv) == 2:
         _, DATA = argv
+        MODEL_TYPE = 'knn'
 
     else:
-        _, DATA, MODEL = argv
+        _, DATA, MODEL_TYPE = argv
 
     # Load data from csv file
     data = pd.read_csv(DATA)
@@ -98,9 +129,14 @@ def main():
     master_frame.index = data['name']
     
     random.seed(1)
-    
-    model = MovieRecommender(master_frame)
-    model.test_similarity(master_frame)
+
+    if MODEL_TYPE == 'knn':
+        model = MovieRecommender(master_frame)
+        model.test_similarity(master_frame)
+
+    else:
+        model = KmeansRecommender(master_frame)
+        model.test_similarity(master_frame)
 
 
 if __name__ == "__main__":
