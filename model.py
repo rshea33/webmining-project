@@ -8,6 +8,37 @@ import random
 from sklearn.neighbors import NearestNeighbors
 
 
+class MovieRecommender:
+    def __init__(
+            self,
+            data,
+            model_type='knn',
+            n_neighbors=5
+            ):
+        self.data = data
+        self.model_type = model_type
+        self.n_neighbors = n_neighbors
+        self.model = NearestNeighbors(n_neighbors=n_neighbors, algorithm='ball_tree')
+        self.model.fit(data)
+
+
+    def return_similar_movies(self, movie_name, n_movies=5):
+        idx = self.data.index.get_loc(movie_name)
+        # get the 5 most similar movies
+        similar_movies = self.model.kneighbors(self.data.iloc[idx, :].values.reshape(1, -1), return_distance=False)
+        # get the names of the movies
+        similar_movies = [self.data.index[i] for i in similar_movies[0]]
+        return similar_movies
+
+
+    def test_similarity(self, data):
+        for i in range(5):
+            movie = random.choice(data.index)
+            print('Movie selected:', movie)
+            print('Similar movies:')
+            print(self.return_similar_movies(movie))
+            print()
+
 def main():
 
     # Check command-line arguments
@@ -15,7 +46,11 @@ def main():
         print("Usage: python model.py <data.csv> [model]")
         exit(1)
 
-    _, DATA, MODEL_PATH = argv
+    if len(argv) == 2:
+        _, DATA = argv
+
+    else:
+        _, DATA, MODEL = argv
 
     # Load data from csv file
     data = pd.read_csv(DATA)
@@ -31,11 +66,9 @@ def main():
     data['actor'] = data['actor'].apply(fn)
     data['creator'] = data['creator'].apply(fn)
 
-
     # Vectorize the data
     ct = CountVectorizer(stop_words='english', max_features=1000)
     tfidf = TfidfVectorizer(stop_words='english', max_features=1000)
-
 
     # fit and transform on description
     tfidf_des = pd.DataFrame(tfidf.fit_transform(data['description']).toarray())
@@ -53,27 +86,6 @@ def main():
     ct_creator = pd.DataFrame(ct.fit_transform(data['creator']).toarray())
     ct_creator.index = data['name']
 
-    def return_similar_movies(movie_name, n_movies=5, data=tfidf_des):
-        nn = NearestNeighbors(n_neighbors=n_movies, algorithm='ball_tree')
-        nn.fit(data)
-        # get the index of the movie
-        idx = data.index.get_loc(movie_name)
-        # get the 5 most similar movies
-        similar_movies = nn.kneighbors(data.iloc[idx, :].values.reshape(1, -1), return_distance=False)
-        # get the names of the movies
-        similar_movies = [data.index[i] for i in similar_movies[0]]
-        return similar_movies
-    
-    
-    def test_similarity(data):
-        for i in range(5):
-            movie = random.choice(data.index)
-            print('Movie selected:', movie)
-            print('Similar movies:')
-            print(return_similar_movies(movie, data=data))
-            print()
-
-
     master_frame = pd.concat([tfidf_des,
         tfidf_rev,
         ct_genre,
@@ -83,12 +95,12 @@ def main():
         ct_creator],
         axis=1
         )        
+    master_frame.index = data['name']
     
-    if len(argv) == 3:
-        # create model, train it, and save it to disk
-        model = NearestNeighbors(n_neighbors=10, algorithm='ball_tree')
-        model.fit(master_frame)
-        pickle.dump(model, open(MODEL_PATH, "wb"))
+    random.seed(1)
+    
+    model = MovieRecommender(master_frame)
+    model.test_similarity(master_frame)
 
 
 if __name__ == "__main__":
